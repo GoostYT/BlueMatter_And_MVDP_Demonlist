@@ -1,7 +1,7 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "BlueMatter",
     },
     {
         "role": "admin",
@@ -17,6 +17,6 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Prometheus",
     }
 ]
